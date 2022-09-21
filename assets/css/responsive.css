@@ -1,0 +1,82 @@
+@media only screen and (max-width: 63.9375em) {
+    /* .w-650 {
+        width: 650px !important;
+    } */
+}
+
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    /* .header__navbar-bar--btn i {
+        display: block;
+    }
+
+    .header__navbar--item {
+        display: none;
+    } */
+
+    .container__card {
+        width: 90%;
+    }
+
+    .container__card-text--btn {
+        width: 70%;
+    }
+
+    #footer {
+        flex-direction: column;
+        height: 100%;
+        padding: 20px 0;
+    }
+
+    .footer__text {
+        width: 90%;
+        font-size: 30px;
+    }
+
+    .footer__copyright {
+        font-size: 30px;
+    }
+
+    .footer__logo--img {
+        margin-bottom: 15px;
+    }
+
+    .social__icon {
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+
+    .container__banner--img img {
+        width: 100%;
+    }
+
+    .container__card-hardware {
+        width: 90%;
+    }
+
+    .container__card-hardware-text {
+        font-size: 10px;
+    }
+
+    .container__card-hardware-text--heading {
+        font-size: 13px;
+    }
+
+    .container__card-hardware-table table {
+        margin-top: 20px;
+        font-size: 25px;
+    }
+
+    .container__card-info,
+    .container__card--video,
+    .container__card--video iframe{
+        width: 90%;
+    }
+
+    /* .w-650 {
+        width: 90% !important;
+    } */
+}
+
+@media only screen and (max-width: 46.1875em) {
+    
+}

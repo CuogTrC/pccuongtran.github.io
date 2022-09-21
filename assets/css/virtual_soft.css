@@ -1,0 +1,30 @@
+.container__banner--img{
+
+}
+
+.container__card-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    padding: 0 20px;
+    margin: 0 100px 50px 100px;
+}
+.container__card-info--img{
+    
+}
+
+.container__card-text{
+
+}
+.container__card-text--heading{
+
+}
+.container__card-text--desc{
+
+}
+.container__card-text--btn{
+    padding: 10px 50px;
+}

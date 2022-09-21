@@ -1,0 +1,17 @@
+.container__box {
+    animation: showup ease 1s;
+}
+
+.container__box-video {
+    margin: 0 auto;
+}
+
+.container__box-video iframe {
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    .footer__copyright {
+        font-size: 12px !important;
+    }
+}

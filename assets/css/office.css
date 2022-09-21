@@ -1,0 +1,7 @@
+.container__banner--img img {
+    object-position: center 37%;
+}
+
+.container__card-text--btn {
+    padding: 10px 20px;
+}
